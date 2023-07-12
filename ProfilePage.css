@@ -1,0 +1,155 @@
+* {
+	border: 0 none;
+	outline: 0;
+    padding:0;
+	margin:0;
+    font-family: cursive;
+    list-style-type: none;
+}
+.upside {
+    width: auto;
+    height: 80px;
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+}
+.top {
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-left: 250px;
+}
+.sign {
+    background-color: dodgerblue;
+    width: 70px;
+    height: 30px;
+    color: aliceblue;
+    text-align: center;
+    border: 3px solid grey;
+    margin-left: 220px;
+}
+#strong{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box1, .box2 {
+    width: 550px;
+    height: 330px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: darkgray;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.box2 {
+    height: 120px;
+    margin-top: 25px;
+}
+.title {
+    background-color:cadetblue; 
+    height: 80px;
+    margin-top: -5px;
+    margin-right: -5px;
+    margin-left: -5px;
+}
+.profile {
+    margin-left: 30px;
+    margin-top: -20px;
+    justify-content: space-between;
+}
+img {
+    height: 20px;
+    width: 20px;
+}
+#big {
+    height: 50px;
+    width: 50px;
+}
+h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.box3, .box4 {
+    width: 300px;
+    height: 220px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: darkgray;
+    font-weight: bold;
+    margin-left: 850px;
+}
+.box3   {
+    margin-top: -495px;
+}
+.box4 {
+    margin-top: 33px;
+}
+.topbox2, .topbox3, .topbox4 {
+   background-color: grey;
+   color: aliceblue;
+   height: 30px;
+   padding-left: 45px;
+   padding-top: 10px;
+   margin-top: -15px;
+   margin-right: -5px;
+   margin-left: -5px;
+}
+.topbox3, .topbox4 {
+    margin-top: -50px;
+    padding-bottom: 5px;
+}
+#dojo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    font-size: 20px;
+}
+#date {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:darkgray; 
+}
+#phyton {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.box5 {
+    border-color:darkgray;
+    border-width: 5px;
+    border-style: solid;
+    border-bottom: 0px;
+    width: 300px;
+    margin-left: -5px;
+    font-weight: lighter;
+}
+#names1, #names2, #names3 {
+    padding-left: 25px;
+}
+.final {
+    padding-left: 25px;
+}
+#names1 {
+    line-height: 25px;
+    margin-top: 10px;
+    padding-left: 40px;
+}
+#names2 {
+    line-height: 50px;
+    margin-top: 30px;
+}
+#button1, #button2 {
+    border-radius: 50%;
+    background-color: grey;
+    border: aliceblue 2px solid;
+    color: aliceblue;
+    width: 35px;
+    height: 35px;
+    margin-bottom: 10px;
+}
+#points1, #points11 {
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+#points2, #points22 {
+   padding-left: 57px;
+}
